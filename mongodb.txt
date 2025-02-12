@@ -1,3 +1,7 @@
 Ad2003 - BqmgHr01jR23rkEQ
 
 mongodb+srv://Ad2003:BqmgHr01jR23rkEQ@cluster0.esq8n.mongodb.net/
+
+project atlass password : Iamhim10
+
+mongosh "mongodb+srv://Ad2003:Iamhim10@cluster0.esq8n.mongodb.net/"
